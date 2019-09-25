@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hao from Sun* Inc.</h1>
+        <h1>Hao from Sun* Inc</h1>
         {isShowTitle ? 'title' : 'no title'}
         {isShowTitle && (
           <h2>
