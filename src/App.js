@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 const QUESTIONS = [
-  { id: 1, type: 'text', question: 'Whats your name sss' },
+  { id: 1, type: 'text', question: 'Whats your name?' },
 
 
 
